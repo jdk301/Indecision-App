@@ -1,6 +1,6 @@
 // Add Option Error
 .add-option-error {
-  color: $off-white;
+  color: $off-black;
   font-style: italic;
   margin: $m-size 0 0 0;
   padding: 0 $m-size;
@@ -14,10 +14,10 @@
 }
 
 .add-option__input {
-  background: $purple;
+  background: $off-white;
   border: none;
-  color: $off-white;
-  border-bottom: 0.3rem solid darken($purple, 10%);
+  color: $off-black;
+  border-bottom: 0.3rem solid darken($green, 10%);
   flex-grow: 1;
   margin: 0 0 $s-size 0;
   padding: $s-size;

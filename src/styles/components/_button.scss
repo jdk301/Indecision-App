@@ -2,9 +2,9 @@
 
 // Big Button
 .big-button {
-  background: $purple;
+  background: $green;
   border: none;
-  border-bottom: 0.6rem solid darken($purple, 10%);
+  border-bottom: 0.6rem solid darken($green, 10%);
   color: white;
   font-family: Cairo, Arial, sans-serif;
   font-weight: bold;
@@ -26,10 +26,10 @@
 
 // Button
 .button {
-  background: $purple;
+  background: $green;
   border: none;
-  border-bottom: 0.3rem solid darken($purple, 10%);
-  color: white;
+  border-bottom: 0.3rem solid darken($green, 10%);
+  color: $off-white;
   font-weight: 500;
   padding: $s-size;
 }
@@ -37,6 +37,6 @@
 .button--link {
   background: none;
   border: none;
-  color: $off-white;
+  color: $off-black;
   padding: 0;
 }
