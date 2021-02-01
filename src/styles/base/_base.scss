@@ -1,10 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo&display=swap");
+
 html {
   font-size: 62.5%;
 }
 
 body {
   background: $dark-blue;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Cairo, Arial, sans-serif;
   font-size: $m-size;
 }
 

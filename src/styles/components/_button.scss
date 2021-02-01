@@ -1,9 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap");
+
 // Big Button
 .big-button {
   background: $purple;
   border: none;
   border-bottom: 0.6rem solid darken($purple, 10%);
   color: white;
+  font-family: Cairo, Arial, sans-serif;
   font-weight: bold;
   font-size: $l-size;
   margin-bottom: $m-size;
